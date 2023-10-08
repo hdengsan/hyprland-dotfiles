@@ -1,0 +1,22 @@
+2023/10/08-10:35:53.189 f9d Reusing MANIFEST /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/08-10:35:53.191 f9d Recovering log #2057
+2023/10/08-10:35:53.260 f9d Reusing old log /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/002057.log 
+2023/10/08-11:56:28.470 f90 Level-0 table #2067: started
+2023/10/08-11:56:28.699 f90 Level-0 table #2067: 933046 bytes OK
+2023/10/08-11:56:28.789 f90 Delete type=0 #2057
+2023/10/08-12:13:28.383 f90 Compacting 1@1 + 6@2 files
+2023/10/08-12:13:28.766 f90 Generated table #2068@1: 46707 keys, 2188981 bytes
+2023/10/08-12:13:29.032 f90 Generated table #2069@1: 50634 keys, 2592282 bytes
+2023/10/08-12:13:29.276 f90 Generated table #2070@1: 17499 keys, 2174433 bytes
+2023/10/08-12:13:29.526 f90 Generated table #2071@1: 19971 keys, 2219164 bytes
+2023/10/08-12:13:29.808 f90 Generated table #2072@1: 49230 keys, 2222930 bytes
+2023/10/08-12:13:29.968 f90 Generated table #2073@1: 37890 keys, 861706 bytes
+2023/10/08-12:13:29.968 f90 Compacted 1@1 + 6@2 files => 12259496 bytes
+2023/10/08-12:13:30.054 f90 compacted to: files[ 0 0 6 0 0 0 0 ]
+2023/10/08-12:13:30.054 f90 Delete type=2 #2067
+2023/10/08-12:13:30.054 f90 Delete type=2 #2063
+2023/10/08-12:13:30.055 f90 Delete type=2 #2064
+2023/10/08-12:13:30.055 f90 Delete type=2 #2060
+2023/10/08-12:13:30.055 f90 Delete type=2 #2059
+2023/10/08-12:13:30.055 f90 Delete type=2 #2061
+2023/10/08-12:13:30.055 f90 Delete type=2 #2062

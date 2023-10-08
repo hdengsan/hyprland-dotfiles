@@ -1,0 +1,20 @@
+2023/10/06-17:12:48.996 650 Creating DB /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.4funbox.com_0.indexeddb.leveldb since it was missing.
+2023/10/06-17:12:49.488 650 Reusing MANIFEST /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.4funbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/10/06-17:12:51.959 65e Level-0 table #5: started
+2023/10/06-17:12:52.087 65e Level-0 table #5: 1134 bytes OK
+2023/10/06-17:12:52.398 65e Delete type=0 #3
+2023/10/06-17:12:52.398 65e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/06-17:13:33.661 650 Level-0 table #7: started
+2023/10/06-17:13:34.158 650 Level-0 table #7: 8797 bytes OK
+2023/10/06-17:13:34.279 650 Delete type=0 #4
+2023/10/06-17:13:34.280 651 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/10/06-17:18:33.408 650 Level-0 table #9: started
+2023/10/06-17:18:33.568 650 Level-0 table #9: 3743 bytes OK
+2023/10/06-17:18:33.905 650 Delete type=0 #6
+2023/10/06-17:18:33.905 650 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 393 : 1
+2023/10/06-17:18:33.905 650 Compacting 1@0 + 1@1 files
+2023/10/06-17:18:34.142 650 Generated table #10@0: 154 keys, 4284 bytes
+2023/10/06-17:18:34.142 650 Compacted 1@0 + 1@1 files => 4284 bytes
+2023/10/06-17:18:34.352 650 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/06-17:18:34.352 650 Delete type=2 #9
+2023/10/06-17:18:34.353 650 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 393 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

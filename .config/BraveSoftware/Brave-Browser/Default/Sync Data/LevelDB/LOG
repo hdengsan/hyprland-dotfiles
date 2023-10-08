@@ -1,0 +1,24 @@
+2023/10/08-10:35:35.551 f91 Reusing MANIFEST /home/santiago/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/10/08-10:35:35.552 f91 Recovering log #13
+2023/10/08-10:35:35.565 f91 Reusing old log /home/santiago/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000013.log 
+2023/10/08-10:44:48.085 fae Level-0 table #17: started
+2023/10/08-10:44:48.351 fae Level-0 table #17: 67373 bytes OK
+2023/10/08-10:44:48.732 fae Delete type=0 #13
+2023/10/08-10:44:48.732 fae Compacting 4@0 + 1@1 files
+2023/10/08-10:44:48.870 fae Generated table #18@0: 37 keys, 5122 bytes
+2023/10/08-10:44:48.870 fae Compacted 4@0 + 1@1 files => 5122 bytes
+2023/10/08-10:44:49.184 fae compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/10/08-10:44:49.184 fae Delete type=2 #7
+2023/10/08-10:44:49.184 fae Delete type=2 #9
+2023/10/08-10:44:49.184 fae Delete type=2 #14
+2023/10/08-10:44:49.184 fae Delete type=2 #17
+2023/10/08-10:44:49.185 fae Delete type=2 #12
+2023/10/08-11:45:23.394 f90 Level-0 table #20: started
+2023/10/08-11:45:23.840 f90 Level-0 table #20: 61937 bytes OK
+2023/10/08-11:45:24.188 f90 Delete type=0 #16
+2023/10/08-12:46:27.749 f91 Level-0 table #22: started
+2023/10/08-12:46:28.127 f91 Level-0 table #22: 62847 bytes OK
+2023/10/08-12:46:28.329 f91 Delete type=0 #19
+2023/10/08-13:20:43.536 f90 Level-0 table #24: started
+2023/10/08-13:20:43.891 f90 Level-0 table #24: 75574 bytes OK
+2023/10/08-13:20:44.124 f90 Delete type=0 #21

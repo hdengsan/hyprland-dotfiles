@@ -1,0 +1,18 @@
+2023/09/25-11:49:24.696 1a45 Creating DB /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb since it was missing.
+2023/09/25-11:49:25.693 1a45 Reusing MANIFEST /home/santiago/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_hackernoon.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/25-11:49:29.884 1a47 Level-0 table #5: started
+2023/09/25-11:49:30.055 1a47 Level-0 table #5: 554 bytes OK
+2023/09/25-11:49:30.303 1a47 Delete type=0 #3
+2023/09/25-11:49:30.303 1a47 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/09/25-12:59:54.613 1a38 Level-0 table #7: started
+2023/09/25-12:59:54.891 1a38 Level-0 table #7: 1147 bytes OK
+2023/09/25-12:59:55.372 1a38 Delete type=0 #4
+2023/09/25-12:59:55.372 1a38 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/09/25-12:59:55.372 1a38 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x009\x009\x002\x009\x007\x004\x004\x008\x003' @ 68 : 1
+2023/09/25-12:59:55.372 1a38 Compacting 1@1 + 1@2 files
+2023/09/25-12:59:55.499 1a38 Generated table #8@1: 19 keys, 570 bytes
+2023/09/25-12:59:55.499 1a38 Compacted 1@1 + 1@2 files => 570 bytes
+2023/09/25-12:59:55.587 1a38 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/25-12:59:55.587 1a38 Delete type=2 #7
+2023/09/25-12:59:55.587 1a38 Delete type=2 #5
+2023/09/25-12:59:55.588 1a38 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x009\x009\x002\x009\x007\x004\x004\x008\x003' @ 68 : 1 .. (end); will stop at (end)

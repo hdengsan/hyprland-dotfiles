@@ -1,0 +1,94 @@
+{
+   "checksum": "32e4c1e0912d56c155857ce0b1722619",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13330948736000000",
+            "date_last_used": "0",
+            "guid": "8ce94c27-d7fc-4f67-88c6-8084b20b9c32",
+            "id": "5",
+            "name": "Extract and download audio and video files from YouTube and most online services",
+            "type": "url",
+            "url": "https://tuberipper.com/294/"
+         }, {
+            "date_added": "13333124131000000",
+            "date_last_used": "0",
+            "guid": "9af7b1c4-ae0a-4f60-9b8b-0298be23e0c4",
+            "id": "6",
+            "name": "getting bootloader code hash? | XDA Forums",
+            "type": "url",
+            "url": "https://forum.xda-developers.com/t/getting-bootloader-code-hash.4213505/"
+         }, {
+            "date_added": "13333124183000000",
+            "date_last_used": "0",
+            "guid": "28d8bef1-6415-455c-b960-37a49ab75cc6",
+            "id": "7",
+            "name": "Huawei Bootloader Brute Force | Page 4 | XDA Forums",
+            "type": "url",
+            "url": "https://forum.xda-developers.com/t/huawei-bootloader-brute-force.4151859/page-4#post-84184589"
+         }, {
+            "date_added": "13336587999357023",
+            "date_last_used": "0",
+            "guid": "ba63f61a-5454-4ad5-86a5-fc58f5c23605",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Football Statistics and History | FBref.com",
+            "type": "url",
+            "url": "https://fbref.com/en/"
+         } ],
+         "date_added": "13339333077554337",
+         "date_last_used": "0",
+         "date_modified": "13336587999357023",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13339333077554339",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13337693594137245",
+            "date_last_used": "0",
+            "guid": "780fb95d-36b9-47c0-b5a1-281b0a780afc",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "WARZONE - The Solo Warrior - YouTube",
+            "type": "url",
+            "url": "https://m.youtube.com/watch?v=VX9A_B8jpVU"
+         }, {
+            "date_added": "13340995518901555",
+            "date_last_used": "0",
+            "guid": "48165db8-bf31-463a-b6db-ec7a245192ee",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Instant Background Remover - Remove Bg for Free Online | PhotoRoom",
+            "type": "url",
+            "url": "https://www.photoroom.com/tools/background-remover"
+         } ],
+         "date_added": "13339333077554341",
+         "date_last_used": "0",
+         "date_modified": "13340995518901555",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgqKorGJ4GIAAAAAEgAaWHcrODd0R2dGOEh4c25HR1J3dkYyZDNlSW5WYnN2Ri9Ibk9ZYkY5dDRKY09nQmFqYWR2SXJGTm5nbjRTbnVWUkh2ZDhyTXpxbTZQR2E2SHIvc290Mit3PT0qGEsxMUVZaTRnWFpiTTJVODZYdS9odkE9PUgDEoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkZTUxMTEwYzAtZTE4Yy00ODNjLTkxM2ItNjE0MGE3ZWY5NDU4GAAgACgAMAE4rtCOr58xQK7Qjq+fMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqQEICBKkAQocZERvQ1RvK0VvQXFWdWM4bDVOb1lOYmY5eDdZPRIkNDE5N2QzZGItZTZkYy00NmExLTkxMWMtMDkwNTM1YTA1NWVhGAAgAigCMJLAoe6pMTj+4ILPnzFAobqh7qkxShxxeTVJeVI2Tkk4K0dMaDNDMmhsU0xEcGttMTg9WiAiHv/7czNGaE1UQzI5cXJxRklBVDYreU9ROEpGdzlRPWVuXK2FEqkBCAYSpAEKHFRnTURKK1VUSTZZcGtyRGU1a0FVSDIrK3liVT0SJDIzNWJlMmRmLTlhMzYtNDVmNi1hNTE2LWZkMmUyZjU3ZTIxNhgAIAAoADD0s5mvnzE4t6qZr58xQLeqma+fMUocODU2YkVLNnJRaDhJcjhDWjZha0hmc1Jnc05vPVogIh7/7jg2U0RYc21Ic2lhbUQ3NGdqdE1EdXlkampEbz1lAAAAABKDAQgBEn8KHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGJlZWQzM2VmLWJiOTQtNDE0Ni1iOTMyLWYwZGI3YjExNzFjNRgAIAAoADABOK7Qjq+fMUCu0I6vnzFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqkBCAcSpAEKHHlHZjlmRjFjaTlBQm8wMVBoZ0lwWEUzaE1vQT0SJGEyMDM2NmNjLTg5ZGUtNGJiZS05NWQ5LTdiMWFlYTA5Nzg2NBgAIAAoADC3t5mvnzE4t6qZr58xQLeqma+fMUocQTF6OEVxVlRDK2tUY2RlM09QY3VlelNxN3cwPVogIh7/93FGdGs0clVWSTh2eS93MEJMT3FuTmt4ekFkYz1lAAAAABKoAQgLEqMBChwyenZINFpTYTRNT0swOHZ5aE5LV0Z6WndHUFk9EiRlMTRkODNmNS01OWY3LTQ4NDItYmM3Yy1jY2RiZDg0YWE5ZWYYACACKAIwhdHYhLAxOMi02ISwMUCZtdiEsDFKHEI5cC9YQVAraytJZHptSlpDRkJrTFVxcVAvOD1aHyIdpjVsWmdkUGp1M2dGR1FQb0FtZm1GSERNRVRwZz1lV+N3dRKpAQgFEqQBChxaVmhRY3pEZVFIamxFSHlNaUk2Yk15YkMxN1U9EiQ1MzI3M2JjYi05ZDhlLTQxZDItODNlOC1hODdmYmEyMTVlN2MYACAAKAAw07iZr58xOLeqma+fMUC3qpmvnzFKHDRkZFZGYWloaERwWnJFOGowQklwM2dFa0NUND1aICIe/90ybVVwaUZLaS9SRmtQck0yc3d3eStPM01YNlk9ZQAAAAASgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiRjZTBjMWYyNi1kZjg1LTRiM2YtOTNhZS05YjM3NGRkNDA1MmMYACAAKAAwATiu0I6vnzFArtCOr58xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKnAQgJEqIBChxHOUdTalM0cTltMFBBcE9sclY5a2duUWdUZWc9EiQyYmQ4MDJmYi0zM2U4LTRhZjMtOTc0OC0wYTc5ODJlNjRjMzAYACAAKAAw55Ob3qMxOJX1mt6jMUCV9ZreozFKHGJpU1h1eXdocmVoMkFTNnBQdkpoQ1duNTJvRT1aHiIcTWVTdWdxRlBhSU8wOFBMa01Vd3hXUGhwRitJPWXY1mr0MAE4AA==",
+   "version": 1
+}
